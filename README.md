@@ -1,4 +1,4 @@
-# UPenn ESE 650 Learning in Robotics, Project 1
+# UPenn ESE650 Learning in Robotics, Project 1
 
 1. Put training images into folder .\roipoly_annotate\train  
    Put testing images into folder .\roipoly_annotate\test
